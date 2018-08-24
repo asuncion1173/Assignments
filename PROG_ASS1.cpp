@@ -1,6 +1,6 @@
 /*
 *Name   <Asuncion, Jacob Abraham D.>
-*Date   <>
+*Date   < July 23, 2018 >
 *Module Name    < Bank Account Creator>
 *Description    < To make an account for the user by inputting information >
 */
