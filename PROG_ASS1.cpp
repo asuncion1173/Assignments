@@ -1,3 +1,15 @@
+/*
+*Name   <Asuncion, Jacob Abraham D.>
+*Date   <>
+*Module Name    < Bank Account Creator>
+*Description    < To make an account for the user by inputting information >
+*/
+
+
+
+
+
+
 #include <iostream>
 #include <string>
 #include <cstdlib>
