@@ -1,8 +1,8 @@
 /*
 *Name   <Asuncion, Jacob Abraham D.>
-*Date   <August 16, 2018>
+*Date   < >
 *Module Name    <Quadratic Formula>
-*Description 	<>
+*Description 	< >
 */
 
 
